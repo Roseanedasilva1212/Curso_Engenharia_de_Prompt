@@ -15,8 +15,6 @@ Os materiais complementares e de apoio que oferecemos têm como objetivo fornece
 
 Durante este conteúdo, compreendemos os fundamentos da engenharia de prompts. Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir o material complementar contendo os conteúdos e links apresentados no curso:
 
-## Material de Apoio - Introdução à Engenharia de Prompts: Acesse o link Introdução à Engenharia de Prompts para conferir o material apresentado no curso.
-
 ## Dicas e Links Úteis
 
 Artigos e Fórum da DIO: Compartilhe seus conhecimentos e dúvidas através dos artigos (visíveis globalmente na plataforma da DIO) e nos fóruns específicos para cada experiência educacional, como nossos Bootcamps.
